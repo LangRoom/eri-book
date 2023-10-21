@@ -1,0 +1,7 @@
+baseURL = 'https://eri.blog.com/'
+languageCode = 'zh-tw'
+title = 'Eri Blog'
+
+[module]
+[[module.imports]]
+path = 'github.com/alex-shpak/hugo-book'
